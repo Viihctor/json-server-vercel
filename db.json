@@ -1,9 +1,106 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "products": [
+    {
+      "title": "Pokémon ShoulderBag",
+      "price": "93.80",
+      "description": "Bolsa de ombro da franquia Pokémon",
+      "category": "men's clothing",
+      "image": "https://ae01.alicdn.com/kf/S436da9a625fe449f8817dd658b3a570bZ/NEW2023-Pokemon-Single-Shoulder-Bag-Male-Student-Anime-Pikachu-Poke-Ball-Crossbody-Bag-Coin-Purse-Schoolbag.jpg",
+      "rating": {
+        "rate": 5,
+        "count": 0
+      },
+      "id": 1
+    },
+    {
+      "title": "Simple Black Bag",
+      "price": "39.90",
+      "description": "Bolsa de ombros simples preta",
+      "category": "men's clothing",
+      "image": "https://ae01.alicdn.com/kf/S5bfdfc6978554bbfaf9e328e6b1cf5cbA/2023-de-alta-qualidade-dos-homens-bolsas-oxford-saco-para-o-homem-masculino-cruz-corpo-ombro.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 0
+      },
+      "id": 2
+    },
+    {
+      "title": "Blue Nike Bag",
+      "price": "69.90",
+      "description": "Bolsa azul da nike",
+      "category": "men's clothing",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegrLAZEgSCgsEAFdTQEWMzymNR_2Oco8nVg&usqp=CAU",
+      "rating": {
+        "rate": 4,
+        "count": 0
+      },
+      "id": 3
+    },
+    {
+      "title": "Red Puma Backpack",
+      "price": "89.90",
+      "description": "A red packpack with a modern look, fit for everyday use.",
+      "category": "men's clothing",
+      "image": "https://www.streetprorunning.com/images/cargador/productos/imagen-2-17898-872294bb-8443-NORMAL.jpg",
+      "rating": {
+        "rate": 5,
+        "count": 0
+      },
+      "id": 4
+    },
+    {
+      "title": "Red Backpack",
+      "price": "49.99",
+      "description": "Casual red backpack for everyday use",
+      "category": "men's clothing",
+      "image": "https://i5.walmartimages.com/seo/K-Cliffs-Unisex-Classic-Backpack-High-Quality-Basic-Bookbag-Simple-Student-School-Bag-Lightweight-Water-Resistant-Durable-Daypack-Red_d4522cbd-6c1b-41bb-8f8c-eb2f8c138e76_1.b5fa2f30f5259f197b8266dfea550186.jpeg",
+      "rating": {
+        "rate": 4,
+        "count": 0
+      },
+      "id": 5
+    },
+    {
+      "title": "Leather Messenger Bag",
+      "price": "79.99",
+      "description": "Classic leather messenger bag for a sophisticated look",
+      "category": "men's clothing",
+      "image": "https://www.satchel-page.com/cdn/shop/products/DSCF4888-1920x1360_1600x.jpg?v=1654105643",
+      "rating": {
+        "rate": 5,
+        "count": 0
+      },
+      "id": 6
+    },
+    {
+      "title": "Travel Duffel Bag",
+      "price": "64.50",
+      "description": "Spacious and durable travel duffel bag",
+      "category": "men's clothing",
+      "image": "https://i5.walmartimages.com/asr/95cd45a1-13a1-4d52-ac05-04a22c16519b.63620e5f1a3004a53d968c3d5dc54c3a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "rating": {
+        "rate": 4,
+        "count": 0
+      },
+      "id": 7
+    },
+    {
+      "title": "Canvas Sling Bag",
+      "price": "29.99",
+      "description": "Stylish canvas sling bag for a casual look",
+      "category": "men's clothing",
+      "image": "https://m.media-amazon.com/images/I/81Ck6yo0L3L._AC_UY1100_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 0
+      },
+      "id": 8
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "categories": [
+    "electronics",
+    "jewelery",
+    "men's clothing",
+    "women's clothing"
+  ]
 }
